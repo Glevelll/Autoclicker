@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Autoclicker</string>
+    <string name="accessibility_service_description">my desc autoclicker</string>
+</resources>
